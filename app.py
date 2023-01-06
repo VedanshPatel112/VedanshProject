@@ -22,7 +22,7 @@ with col1:
 
 with col2:
    st.header("A dog")
-   st.image("image2.png")
+   st.image("image3.png")
 
 with col3:
    st.header("An owl")
